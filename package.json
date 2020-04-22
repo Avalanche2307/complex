@@ -1,0 +1,19 @@
+{
+  "name": "@saurabh2307/complex",
+  "version": "1.0.0",
+  "description": "Module for handling complex numbers and related operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avalanche2307/complex.git"
+  },
+  "author": "Saurabh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avalanche2307/complex/issues"
+  },
+  "homepage": "https://github.com/Avalanche2307/complex#readme"
+}
