@@ -2,9 +2,9 @@
   "name": "@saurabh2307/complex",
   "version": "1.0.0",
   "description": "Module for handling complex numbers and related operations",
-  "main": "index.js",
+  "main": "complex.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Avalanche2307/complex/issues"
   },
-  "homepage": "https://github.com/Avalanche2307/complex#readme"
+  "homepage": "https://github.com/Avalanche2307/complex#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
 }
